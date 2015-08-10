@@ -1,0 +1,31 @@
+{
+  "name": "react-native-component-explorer",
+  "version": "0.1.1",
+  "description": "A component explorer for testing and buiding React Native components",
+  "main": "index.js",
+  "scripts": {
+    "start": "SampleProject/node_modules/react-native/packager/packager.sh --root .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shayne Sweeney <shaynesweeney@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shayne/react-native-component-explorer.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shayne/react-native-component-explorer/issues"
+  },
+  "homepage": "https://github.com/shayne/react-native-component-explorer",
+  "dependencies": {
+    "art": "^0.10.0",
+    "react-native": "^0.8.0",
+    "react-native-navigation-buttons": "^0.1.0"
+  }
+}
