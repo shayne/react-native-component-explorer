@@ -27,7 +27,7 @@
     "art": "0.x",
     "react-native": "0.x"
   },
-  "dependencies":
+  "dependencies": {
     "react-native-navigation-buttons": "^0.1.0"
   }
 }
