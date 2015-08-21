@@ -23,9 +23,11 @@
     "url": "https://github.com/shayne/react-native-component-explorer/issues"
   },
   "homepage": "https://github.com/shayne/react-native-component-explorer",
-  "dependencies": {
-    "art": "^0.10.0",
-    "react-native": "^0.8.0",
+  "peerDependencies": {
+    "art": "0.x",
+    "react-native": "0.x"
+  },
+  "dependencies":
     "react-native-navigation-buttons": "^0.1.0"
   }
 }
